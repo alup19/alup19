@@ -1,29 +1,31 @@
-<h1 align="center">Hello everyone! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B8D2A&width=435&lines=Hello+everyone!)](https://git.io/typing-svg)
 
-<p align="center">
-  I'm <strong>Alberto</strong>, a future Full Stack Developer in constant evolution. I enjoy turning ideas into code and exploring new technologies to build practical and efficient solutions. 🚀
+<p>
+  I'm <strong>Alberto</strong>, a Full Stack Developer dedicated to creating practical and functional solutions. Beyond software development, I am committed to studying cybersecurity to ensure that applications are built on a solid and secure foundation.
 </p>
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-<div align="center" style="display: inline_block"><br>
-  <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img title="Express" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img title="GitHub" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img title="Linux" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img title="VSCode" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" title="JS"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" title="TS"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"></td>
+  </tr>
+</table>
 
 ---
 
